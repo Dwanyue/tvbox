@@ -169,12 +169,28 @@
 			"ext": "./js/s/西瓜.json"
 		},
 		{
-			"key": "7点影视",
-			"name": "7点影视",
+			"key": "七点影视",
+			"name": "七点影视",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "./jar/XBPQ.jar",
 			"ext": "./js/s/7点.json"
+		},
+		{
+			"key": "三九影视",
+			"name": "三九影视",
+			"type": 3,
+			"api": "csp_HBPQ",
+			"jar": "./jar/XBPQ.jar",
+			"ext": "./XBPQ/三九影视.json"
+		},
+		{
+			"key": "巴士动漫",
+			"name": "巴士动漫",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"jar": "./jar/XBPQ.jar",
+			"ext": "./XYQHiker/巴士动漫.json"
 		},
 		{
 			"key": "穷电影",
@@ -493,10 +509,12 @@
 			"key": "py_偷乐",
 			"name": "偷乐短剧(T3)",
 			"type": 3,
-			"api": "https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/html/偷乐短剧.py",
-			"quickSearch": 1,
+			"api": "./py/偷乐短剧.py",
 			"searchable": 1,
-			"filterable": 0
+			"changeable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"playerType": 2
 		},
 		{
 			"key": "py_骚火",
