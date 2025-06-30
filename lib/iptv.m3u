@@ -2441,9 +2441,9 @@ http://120.76.248.139/live/bfgd/4200000086.m3u8$LR•IPV4•83『线路80』
 #EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
 http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•83『线路81』
 #EXTINF:-1 tvg-id="82" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-https://py.doube.eu.org/xinghuo?url=/Hunan-Satellite-TV/931$LR•IPV4•83『线路82』
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308827/main.m3u8$LR•IPV4•83『线路82』
 #EXTINF:-1 tvg-id="83" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308827/main.m3u8$LR•IPV4•83『线路83』
+https://py.doube.eu.org/xinghuo?url=/Hunan-Satellite-TV/931$LR•IPV4•83『线路83』
 #EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•92『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
