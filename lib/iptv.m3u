@@ -8565,23 +8565,25 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$LR•IPV4•14『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="凤凰香港" group-title="港·澳·台",凤凰香港
 http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv$LR•IPV4•14『线路14』
 #EXTINF:-1 tvg-id="1" tvg-name="香港卫视" group-title="港·澳·台",香港卫视
-http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$LR•IPV4•9『线路1』
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$LR•IPV4•10『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="香港卫视" group-title="港·澳·台",香港卫视
-http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$LR•IPV4•9『线路2』
+http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$LR•IPV4•10『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="香港卫视" group-title="港·澳·台",香港卫视
-https://stream1.freetv.fun/xiang-gang-wei-shi-7.m3u8$LR•IPV4•9『线路3』
+http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$LR•IPV4•10『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="香港卫视" group-title="港·澳·台",香港卫视
-https://stream1.freetv.fun/79e4d77e2f29a2ca7f7cabbbe2ee02d32a4f2f7fb91ae94d0fb9573c9f94b4ab.ctv$LR•IPV4•9『线路4』
+https://stream1.freetv.fun/xiang-gang-wei-shi-7.m3u8$LR•IPV4•10『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="香港卫视" group-title="港·澳·台",香港卫视
-https://stream1.freetv.fun/xiang-gang-wei-shi-11.m3u8$LR•IPV4•9『线路5』
+https://stream1.freetv.fun/79e4d77e2f29a2ca7f7cabbbe2ee02d32a4f2f7fb91ae94d0fb9573c9f94b4ab.ctv$LR•IPV4•10『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="香港卫视" group-title="港·澳·台",香港卫视
-https://stream1.freetv.fun/xiang-gang-wei-shi-13.m3u8$LR•IPV4•9『线路6』
+https://stream1.freetv.fun/xiang-gang-wei-shi-11.m3u8$LR•IPV4•10『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="香港卫视" group-title="港·澳·台",香港卫视
-https://stream1.freetv.fun/xiang-gang-wei-shi-8.m3u8$LR•IPV4•9『线路7』
+https://stream1.freetv.fun/xiang-gang-wei-shi-13.m3u8$LR•IPV4•10『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="香港卫视" group-title="港·澳·台",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0$LR•IPV4•9『线路8』
+https://stream1.freetv.fun/xiang-gang-wei-shi-8.m3u8$LR•IPV4•10『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="香港卫视" group-title="港·澳·台",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$LR•IPV4•9『线路9』
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0$LR•IPV4•10『线路9』
+#EXTINF:-1 tvg-id="10" tvg-name="香港卫视" group-title="港·澳·台",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$LR•IPV4•10『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="翡翠" group-title="港·澳·台",翡翠
 https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40$LR•IPV4•15『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="翡翠" group-title="港·澳·台",翡翠
